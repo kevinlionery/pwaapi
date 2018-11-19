@@ -1,0 +1,24 @@
+{
+"products": [
+{"id":1,"name":"Blue racer","category":"Red"},
+{"id":2,"name":"Kafue flats lechwe","category":"Purple"},
+{"id":3,"name":"Wallaby, agile","category":"Green"},
+{"id":4,"name":"Anteater, giant","category":"Khaki"},
+{"id":5,"name":"Grey mouse lemur","category":"Khaki"},
+{"id":6,"name":"Hanuman langur","category":"Aquamarine"},
+{"id":7,"name":"Grey mouse lemur","category":"Aquamarine"},
+{"id":8,"name":"Baboon, olive","category":"Maroon"},
+{"id":9,"name":"Dragon, asian water","category":"Fuscia"},
+{"id":10,"name":"Otter, canadian river","category":"Green"},
+{"id":11,"name":"Red-tailed cockatoo","category":"Pink"},
+{"id":12,"name":"Phalarope, grey","category":"Teal"},
+{"id":13,"name":"Tree porcupine","category":"Green"},
+{"id":14,"name":"Turkey vulture","category":"Goldenrod"},
+{"id":15,"name":"Lemming, arctic","category":"Fuscia"},
+{"id":16,"name":"Old world fruit bat (unidentified)","category":"Teal"},
+{"id":17,"name":"Hottentot teal","category":"Mauv"},
+{"id":18,"name":"Dragon, komodo","category":"Orange"},
+{"id":19,"name":"Rhinoceros, black","category":"Violet"},
+{"id":20,"name":"Eagle, long-crested hawk","category":"Yellow"}
+]
+}
